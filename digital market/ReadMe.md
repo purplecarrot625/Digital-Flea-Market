@@ -5,5 +5,5 @@ Our project is designed as a seller-oriented trading platform for people who are
 However, Beaver Neighbor Center is a local-based platform designed for sellers who are graduated international students in OSU, and sellers can sell their items according to the buyers’ posts or wait for the potential buyers. Our online shopping platform provides more convenience and immediacy for people to trade their items, and people do not need to waste any time and worry about any scam happening during the buy and sell transaction.
 
   ### This is the prototype!
-[![Watch the video](https://media.oregonstate.edu/media/t/1_h4h3c5uj)
+[![Watch the video](https://media.oregonstate.edu/media/t/1_h4h3c5uj)]
 The high-fidelity prototype are made by Figma...
